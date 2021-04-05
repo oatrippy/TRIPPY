@@ -7,8 +7,8 @@
         paragrafSayisi = 4,
         paragrafSatirsayisi = 4,
         song_file = "./song.txt",
-        satirbasinaMinumumKelime = 2,
-        satirbasinaMaximumKelime = 4,
+        satirbasinaMinumumKelime = 3,
+        satirbasinaMaximumKelime = 3,
         sarkiUret = document.getElementById("sarkiUret");
         kelimeler = [],
         sarkilar = "",
