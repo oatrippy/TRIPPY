@@ -80,35 +80,4 @@
         sarkiUret();
     })
 
-# In[29]:
-
-def rhymes(*words):
-    try:
-        phons_backwards = map(lambda w: cmu_dict[w][::-1], words)
-    except KeyError:
-        raise Exception('Word not in dictionary.')
-    
-    matching_phons = list()
-    for p_tup in zip(*phons_backwards):
-        first_p = p_tup[0]
-        if all(p == first_p for p in p_tup[1:]):
-            matching_phons.append(first_p)
-        else:
-            break
-            
-    return matching_phons and matching_phons[-1][-1] in set(['1', '2'])
-
-
-# In[30]:
-
-def rhyme_finder(word):
-    return filter(lambda w: rhymes(w, word), cmu_dict.keys())
-
-
-# In[33]:
-
-print '\n'.join(rhyme_finder(argv[-1]))
-
-
-
 })();
