@@ -1,42 +1,109 @@
-şenim,tenim,trenim,menim,gemim,şeyim,neyim,deyim,beyim,yerim,perim,kerim,derim,kelim,belim,Selim,elim,bezim,sevim,evim,peşim,eşim,seçim,sesim,resim,yedim,nedim,kedim,dedim,yetim,hekim,Ekim,beynim,benzim,gencim,rengim,yendim,kendim,bendim,gençtim,resmim,emdim,Dersim,devrim,leylim,teslim,şeklim,şeyhim,keyfim,şeydim,demim,dmkeyim,serim,Terim,Erim,telim,rejim,yeşim,geçim,kesim,nsfesim,esim,şefim,cebim,çekim,tekim,enzim,prensim,dengim,emrim,mermim,Emmim,tersim,seyrim,evrim,şerrim,eskrim,şehrim,eğlim,meylim,neslim,ellim,neydim,leydim,deydim,yerdim,verdim,serdim,gerdim,derdim,erdim,geldim,deldim,mevsim,zevkim,sevgim,değdim,eğdim,sezdim,gezdim,bezdim,sevdim,Vehbim,deştim,seçtim,geçtim,kestim,estim,nefsim,nettim,ettim,teptim,çektim,yektim,tektim,ektim,yetkim,İnim,kinim,inim,kimim,miyim,mirim,dilim,bizim,İşim,işim,İçim,biçim,içim,İsim,isim,idim,tribim,İznim,iznim,zihnim,indim,fikrim,iklim,miydim,kirdim,girdim,sildim,bildim,çizdim,İçtim,içtim,gittim,bittim,pirim,ilim,çizim,dizim,izim,cicim,cisim,İsmim,ismim,giydim,siktim,diktim,zikkim,mühim,hunim,kanim,fanim,canim,anim,daim,volim,yarim,zalim,salim,halim,alim,vahim,vadim,kadim,adim,abim,rapim,hakim,bandim,kankim,partim,kalplim,aklim,Çaldim,kaldim,harbim,kalbim,yazdim,askim,takdim,yaptim,vaktim,eğim,pimim,liyim,giyim,diyim,Giyim,birim,stilim,milim,kilim,filim,bilim,sizim,sicim,çişim,dişim,hiçim,İdim,dibim,ritim,tipim,sikim,sindim,dindim,bindim,cismim,filmim,kimdim,gizlim,dillim,İklim,bilgim,ilgim,birdim,cildim,çizgim,kizdim,dizdim,şiştim,piştim,biçtim,hissim,içkim,ittim,çiktim,ciktim,biktim,bitkim,söylim,mücrim
-
-Anımsarım,atışlarım,kalışlarım,alışlarım
-,bakışlarım,hazırlarım,tavırlarım,satırlarım
-,hatırlarım,yarınlarım,kadınlarım,adımlarım,
-açıklarım,sayıklarım,balıklarım,başımlayım,
-yaşındayım,başındayım,kapındayım,yanındayım
-,yaşımdayım,alınyazım,tanışmadım,çalışmadım,
-alışmadım,kaçırmadım,sakınmadım,kanıtladım,
-hazırladım,Hazırladım,hatırladım,sayıkladım,
-yanlışlarım,alkışlarım,attıklarım,yaptıklarım,
-yaktıklarım,yazdıklarım,sandıklarım,
-kaldıklarım,narındayım,kanındayım,danışmanım
-,şaşırmadım,ayırmadım,alınmadım,katılmadım,
-acıkmadım,açıkladım,yastıktayım,karşındayım,
-altındayım,faslındayım,aklındayım,farkındayım,
-ardındayım,aldırmadım,ayrılmadım,karşılarım
-,kapılarım,anılarım,şarkılarım,kaygılarım,sancılarım
-,acılarım,başınayım,acımayım,karışalım,
-kaldıralım,açılalım,ayrılalım,Karılalım,
-Darılalım,bandıraydım,yaşındaydım,akıllandım
-,hayıflandım,ayrılmazdım,çağırmadım,bağışladım
-,çalışayım,karşıyayım,taşıyayım,tanıtayım
-,başımayım,sarılayım,tartışalım,yarışalım
-,barışalım,tanışalım,çalışalım,alışalım,
-bakışalım,sarılalım,takılalım,ayılasım,
-tanımadım,acımadım,yarıladım,yanındaydım
-,farkındaydım,yaşımdaydım,darılmadı
-,karşılaştım,ağrılarım,çağırayım,dağılayım,
-çağrışalım,çağıralım,Bağırasım,dağılmazdım,
-çıkışlarım,ışıklarım,kırıklarım,fısıldarım,
-kışındayım,dışındayım,kırılganım,kırılmadım
-,yıkılmadım,yıldızlarım,kırdıklarım,çığlıklarım,
-Sığınmadım,kıyılarım,ıstırayım,yıkılayım,
-ızdırabım,sığımadım,mırıldandım,yıkılmazdım
-,intizarım,kehribarım,duyumsarım,duruşlarım,
-umutlarım,yudumlarım,oyunlarım,avuçlarım,
-günahlarım,günahkarım,kurallarım,tuzaklarım
-kulaklarım,dudaklarım,kitaplarım,telaşlarım
-,sevaplarım,cevaplarım,kanatlarım,baharlarım
-,adamlarım,sakallarım,ayaklarım,yasaklarım,
-yanaklarım,yağmurlarım,gözyaşlarım,yoldaşlarım,insanlarım,minnettarım,bulutlarım,kusurlarım,omuzlarım,sorunlarım,çocuklarım,pabuçlarım,kabuslarım,duvarlarım,toparlarım,sokaklarım,inançlarım,anahtarım,savaşlarım,ayarlarım,damarlarım,zamanlarım,yalanlarım,yaşamlarım,tamamlarım,masallarım,bacaklarım,sabahlarım,olduklarım,Tırnaklarım,ırmaklarım,topraklarım,tekrarlarım,şeytanlarım,ahbaplarım,bayramlarım,yapraklarım,parmaklarım,uykularım,duygularım,kurgularım,tortularım,sorularım,korkularım,arzularım,ihtiyacım,delikanlım,ucundayım,durumdayım,sonundayım,yolundayım,taraftayım,zamandayım,unutmadım,konuşmadım,ayarladım,arkandayım,doğrularım,Depolarım,rüyalarım,dualarım,boyalarım,hocalarım,sonbaharım,eşyalarım,sevdalarım,parçalarım,hatalarım,atalarım,yaralarım,karalarım,Sarmalarım,yakalarım,kavgalarım,Çabalarım,unutayım,pusudayım,dünyadayım,buradayım,uymayalım,olmayayım,dolanayım,kovadayım,bozmayalım,olmayalım,perişanım,İtirazım,karbeyazım,vapurdayım,diyardayım,darağacım,rahatladım,afalladım,boşluktayım,mağrurdayım,kıskanmadım,Kurutayım,buluşalım,unutalım,konuşayım,konuşalım,kavuşayım,kırmayalım,durmayalım,uyanalım,oynayalım,korkmayalım,İnanayım,adayayım,sallayalım,ağlayayım,bağlayalım,komutanım,olmayanım,yaradanım,arkadaşım,kıyamadım,çıkamadım,tutamadım,duramadım,suçlamadım,bulamadım,doyamadım,soramadım,olamadım,kızamadım,yaşamadım,yapamadım,kanamadım,anlamadım,karaladım,araladım,yakaladım,zorundaydım,oradaydım,ağlasaydım,parçalandım,karalandım,faydalandım,doyamazdım,kaçamazdım,alamazdım,harcamazdım,bağlanmazdım,kuracaktım,kalacaktım,kırılırım,yıkılırım,sığınırım,karışırım,çalışırım,alışırım,damıtırım,şaşırırım,batırırım,haykırırım,kandırırım,kaldırırım,alınırım,yakınırım,bayılırım,sarılırım,dağılırım,kıskanırım,bırakırım,Yavrucağım,duracağım,solacağım,saracağım,kalacağım,kararlıyım,kaçırmışım,yanılmışım,layıkmışım,anlamsızım,yapyalnızım,ulaşırım,uzanırım,utanırım,kullanırım,dolaşırım,hoşlanırım,zorlanırım,inanırım,savaşırım,paylaşırım,atlatırım,anlatırım,yalvarırım,kazanırım,dayanırım,davranırım,yaşlanırım,katlanırım,azalırım,uğraşırım,sıkıcıyım,çıkmalıyım,durmalıyım,forasıyım,sevdalıyım,hastasıyım,hatalıyım,karalıyım,babanızım,haykırışım,duymamışım,dolamışım,aramışım,kalmamışım,yatıştırdım,yalnızlığım,bıraktığım,yaşadığım,babacığım,olmalıydım,yanarmıydım,bağlarmıydım,ağlarmıydım,solmamıştım,dolmamıştım,bağlanmıştım,kaçırayım,kaldırayım,taşıyalım,tanıyalım,anlıyalım,ayıralım,yaptıralım,yatıralım,katılalım,çalışanım,hatırlardım,sarılaydım,altındaydım,aydınlandım,dağıtalım,çağırmazdım,sıkışalım,ızdırabınm,asistanım,itibarım,aşinayım,harikayım,intikamım,simsiyahım,berivanım,padişahım,itirazım,İhtiyacım,itimadım,tabiatım,meslektaşım,müptelayım,seyredaldım,küçükhanım,tutuklarım,yokuşlarım,torunlarım,taşaklarım,onunlayım,zorundayım
+Anımsarım atışlarım kalışlarım alışlarım bakışlarım 
+hazırlarım tavırlarım satırlarım hatırlarım yarınlarım 
+kadınlarım adımlarım açıklarım sayıklarım balıklarım 
+başımlayım yaşındayım başındayım kapındayım yanındayım 
+yaşımdayım alınyazım tanışmadım çalışmadım alışmadım
+ kaçırmadım sakınmadım kanıtladım hazırladım Hazırladım 
+hatırladım sayıkladım yanlışlarım alkışlarım attıklarım 
+yaptıklarım yaktıklarım yazdıklarım sandıklarım kaldıklarım 
+narındayım kanındayım danışmanım şaşırmadım ayırmadım alınmadım 
+katılmadım acıkmadım açıkladım yastıktayım karşındayım altındayım 
+faslındayım aklındayım farkındayım ardındayım aldırmadım ayrılmadım 
+karşılarım kapılarım anılarım şarkılarım kaygılarım sancılarım acılarım 
+başınayım acımayım karışalım kaldıralım açılalım ayrılalım Karılalım 
+Darılalım bandıraydım yaşındaydım akıllandım hayıflandım ayrılmazdım 
+çağırmadım bağışladım çalışayım karşıyayım taşıyayım tanıtayım başımayım
+ sarılayım tartışalım yarışalım barışalım tanışalım çalışalım alışalım 
+bakışalım sarılalım takılalım ayılasım tanımadım acımadım yarıladım yanındaydım 
+farkındaydım yaşımdaydım darılmazdım karşılaştım ağrılarım çağırayım 
+dağılayım çağrışalım çağıralım Bağırasım dağılmazdım çıkışlarım 
+ışıklarım kırıklarım fısıldarım kışındayım dışındayım kırılganım 
+kırılmadım yıkılmadım yıldızlarım kırdıklarım çığlıklarım Sığınmadım 
+kıyılarım ıstırayım yıkılayım ızdırabım sığımadım mırıldandım yıkılmazdım 
+intizarım kehribarım duyumsarım duruşlarım umutlarım yudumlarım oyunlarım
+ avuçlarım günahlarım günahkarım kurallarım tuzaklarım kulaklarım dudaklarım 
+kitaplarım telaşlarım sevaplarım cevaplarım kanatlarım baharlarım adamlarım 
+sakallarım ayaklarım yasaklarım yanaklarım yağmurlarım gözyaşlarım yoldaşlarım 
+insanlarım minnettarım bulutlarım kusurlarım omuzlarım sorunlarım çocuklarım 
+pabuçlarım kabuslarım duvarlarım toparlarım sokaklarım inançlarım anahtarım 
+savaşlarım ayarlarım damarlarım zamanlarım yalanlarım yaşamlarım tamamlarım 
+masallarım bacaklarım sabahlarım olduklarım Tırnaklarım ırmaklarım topraklarım 
+tekrarlarım şeytanlarım ahbaplarım bayramlarım yapraklarım parmaklarım uykularım 
+duygularım kurgularım tortularım sorularım korkularım arzularım ihtiyacım delikanlım 
+ucundayım durumdayım sonundayım yolundayım taraftayım zamandayım unutmadım 
+konuşmadım ayarladım arkandayım doğrularım Depolarım rüyalarım dualarım boyalarım 
+hocalarım sonbaharım eşyalarım sevdalarım parçalarım hatalarım atalarım yaralarım 
+karalarım Sarmalarım yakalarım kavgalarım Çabalarım unutayım pusudayım dünyadayım 
+buradayım uymayalım olmayayım dolanayım kovadayım bozmayalım olmayalım perişanım 
+İtirazım karbeyazım vapurdayım diyardayım darağacım rahatladım afalladım boşluktayım 
+mağrurdayım kıskanmadım Kurutayım buluşalım unutalım konuşayım konuşalım kavuşayım 
+kırmayalım durmayalım uyanalım oynayalım korkmayalım İnanayım adayayım sallayalım 
+ağlayayım bağlayalım komutanım olmayanım yaradanım arkadaşım kıyamadım çıkamadım 
+tutamadım duramadım suçlamadım bulamadım doyamadım soramadım olamadım kızamadım 
+yaşamadım yapamadım kanamadım anlamadım karaladım araladım yakaladım zorundaydım 
+oradaydım ağlasaydım parçalandım karalandım faydalandım doyamazdım kaçamazdım 
+alamazdım harcamazdım bağlanmazdım kuracaktım kalacaktım kırılırım yıkılırım 
+sığınırım karışırım çalışırım alışırım damıtırım şaşırırım batırırım haykırırım 
+kandırırım kaldırırım alınırım yakınırım bayılırım sarılırım dağılırım kıskanırım 
+bırakırım Yavrucağım duracağım solacağım saracağım kalacağım kararlıyım kaçırmışım 
+yanılmışım layıkmışım anlamsızım yapyalnızım ulaşırım uzanırım utanırım kullanırım 
+dolaşırım hoşlanırım zorlanırım inanırım savaşırım paylaşırım atlatırım anlatırım 
+yalvarırım kazanırım dayanırım davranırım yaşlanırım katlanırım azalırım uğraşırım
+ sıkıcıyım çıkmalıyım durmalıyım forasıyım sevdalıyım hastasıyım hatalıyım karalıyım
+ babanızım haykırışım duymamışım dolamışım aramışım kalmamışım yatıştırdım yalnızlığım 
+bıraktığım yaşadığım babacığım olmalıydım yanarmıydım bağlarmıydım ağlarmıydım solmamıştım 
+dolmamıştım bağlanmıştım kaçırayım kaldırayım taşıyalım tanıyalım anlıyalım ayıralım 
+yaptıralım yatıralım katılalım çalışanım hatırlardım sarılaydım altındaydım aydınlandım
+ dağıtalım çağırmazdım sıkışalım ızdırabınm asistanım itibarım aşinayım harikayım intikamım 
+simsiyahım berivanım padişahım itirazım İhtiyacım itimadım tabiatım meslektaşım
+ müptelayım seyredaldım küçükhanım tutuklarım yokuşlarım torunlarım taşaklarım 
+onunlayım zorundayım
+----
+şenim tenim trenim menim gemim şeyim neyim deyim beyim 
+yerim perim kerim derim kelim belim Selim elim bezim sevim 
+evim peşim eşim seçim sesim resim yedim nedim kedim dedim 
+yetim hekim Ekim beynim benzim gencim rengim yendim kendim
+ bendim gençtim resmim emdim Dersim devrim leylim teslim 
+şeklim şeyhim keyfim şeydim demim dmkeyim serim Terim Erim 
+telim rejim yeşim geçim kesim nsfesim esim şefim cebim çekim
+ tekim enzim prensim dengim emrim mermim Emmim tersim seyrim
+ evrim şerrim 
+eskrim şehrim eğlim meylim neslim ellim neydim leydim deydim 
+yerdim verdim serdim gerdim derdim erdim geldim deldim mevsim 
+zevkim sevgim değdim eğdim sezdim gezdim bezdim sevdim Vehbim 
+deştim seçtim geçtim kestim estim nefsim nettim ettim teptim 
+çektim yektim tektim ektim yetkim İnim kinim inim kimim miyim
+ mirim dilim bizim İşim işim İçim biçim içim İsim isim idim 
+tribim İznim iznim zihnim indim fikrim iklim miydim kirdim 
+girdim sildim bildim çizdim İçtim içtim gittim bittim pirim 
+ilim çizim dizim izim cicim cisim İsmim ismim giydim siktim 
+diktim zikkim mühim hunim kanim fanim canim anim daim volim 
+yarim zalim salim halim alim vahim vadim kadim adim abim 
+rapim hakim bandim kankim partim kalplim aklim Çaldim kaldim
+ harbim kalbim yazdim askim takdim yaptim vaktim eğim pimim 
+liyim giyim diyim Giyim birim stilim milim kilim filim bilim 
+sizim sicim çişim dişim hiçim İdim dibim ritim tipim sikim
+ sindim dindim bindim cismim filmim kimdim gizlim dillim İklim 
+bilgim ilgim birdim cildim çizgim kizdim dizdim şiştim piştim 
+biçtim hissim içkim ittim çiktim ciktim biktim bitkim söylim mücrim
+----
+demim dmkeyim Terim Erim telim rejim yeşim geçim kesim nsfesim 
+esim şefim çekim tekim enzim prensim dengim emrim Emmim seyrim 
+şerrim şehrim eğlim meylim neslim ellim neydim leydim deydim 
+yerdim verdim serdim gerdim derdim erdim geldim deldim mevsim 
+sevgim değdim tenin senin yemin emin şeyin neyin yerin verin 
+serin derin gelin Helin elin evin sesin desin dedin sensin sendin 
+kendin resmin Nermin dersin ersin gelsin şehrin verdin derdin geldin
+ sevgin sevdin geçsin essin keskin ettin kimin şirin sizin izin
+ işin kesin gelir nedir zengin geçtin etsin sensiz yeni seni 
+beni kendi şeyi geri belli deli belki geldi sevgi geçti hepsi eski 
+değil İçin niçin için misin gidin bilir bilsin çirkin miydin girdin 
+gitsin bitsin gittin hiçbir kimi şimdi iyi biri
+Timmy film king in min cin Çin sin din bin tin kin girl 
+gir bir tir pir kir chill İlk ilk yil zil Vil sil dil bil giy 
+İz iz çiz siz giz diz biz hişt İş iş diş İç inç linç vinç cins 
+things find mir zir ktir cilt still mil çil fil çiy ihr nicht 
+ich dich mic kriz tiz çiş fiş iç hiç piç risk mis this his sis pis zift
+ çift Çift right light big didnt link İl pil iyy Nick priz high pişt 
+ymiş şiş kiş briç Kiss mit hit çit fit git bit İp trip klip chip çip 
+dip Bip tip çik sik dik tik İ gri si ti
